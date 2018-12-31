@@ -1,6 +1,6 @@
 # Project Name: simple_scrapy by Xinyue Xiang 
 # Requirement
-python 3.0 or above/n
+python
 scrapy frame 
 # Prepare the Environment
 Download the scrapy frame. 
