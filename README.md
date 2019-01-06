@@ -24,3 +24,5 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 5. revise the parse
 6. import the mySpiderItem 
 # Deal with the pipelines.py and set settings.py
+# How to save our data?
+I only use the csv and it is can open with Excel
