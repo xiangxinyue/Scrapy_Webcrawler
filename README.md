@@ -10,11 +10,12 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 $ scrapy startproject XXX (I used the mySpider in this README and we generally named with the website domain name)
 # Instruction of Documents
 1. mySpider/ (Python module for a project that references code from here)
-2. mySpider/items.py (sets the data store template for structured data)
+2. mySpider/items.py (sets the data module for structured data)
 3. mySpider/pipelines.py (data processing)
 4. mySpider/spiders (directions of spiders code)
 5. scrapy.cfg & mySpider/settings.py (project configuration information and files)
-# items.py : Define the scraped data we want to collect
-1. 
+# Define the scraped data : items.py
+1. define the fields for your item like name = scrapy.Field
+2. we can create a scrapy.item class and use scrapy.Field to define a item
 
 
