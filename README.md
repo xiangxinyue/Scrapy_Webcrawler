@@ -1,4 +1,4 @@
-# Project Name: scrapy_webspider by Xinyue Xiang 
+# Project Name: scrapy_webspider by Xinyue Xiang Jan 2019 
 It is a simple sample of the webspider using scrapy frame.
 # Requirement
 python&scrapy frame 
