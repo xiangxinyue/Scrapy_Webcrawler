@@ -8,7 +8,7 @@ I use the Mac OS and I found it hard to use "$ pip install Scrapy" command in my
 # Create and Start Project
 Create my new Scrapy project in the Scrapy. We need to find the location of our Scrapy installed and create our project in that folder.
 $ source bin/activate
-$ scrapy startproject XXX 
+$ scrapy startproject mySpider
 (I used the mySpider in this README and we generally named with the website domain name)
 # Instruction of Documents
 1. mySpider/ (Python module for a project that references code from here)
