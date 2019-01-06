@@ -13,6 +13,6 @@ $ scrapy startproject XXX (I used the mySpider in this README and we generally n
 3. mySpider/pipelines.py (data processing)
 4. mySpider/spiders (directions of spiders code)
 5. scrapy.cfg & mySpider/settings.py (project configuration information and files)
-# 
+# items.py : Define the data we want to scrape
 
 
