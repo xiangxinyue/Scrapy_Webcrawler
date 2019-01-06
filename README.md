@@ -17,6 +17,6 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 1. define the fields for your item like name = scrapy.Field
 2. we can create a scrapy.item class and use scrapy.Field to define a item
 # Create the webspider
-1. create a webspider in the mySpider/spiders and set the domain of website: $ scrapy genspider douban "douban.com"
+1. create a webspider in the mySpider/spiders and set the domain of website: $ scrapy genspider movie "meijutt.com"
 2. open the douban.py and we need to set the "name", "allow_domains", "start_urls"
-3. 
+3. revise the parse() and use $scrapy crawl mySpider then we got the source code information from this webssite
