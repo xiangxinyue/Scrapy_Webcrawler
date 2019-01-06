@@ -1,4 +1,5 @@
 # Project Name: scrapy_webspider by Xinyue Xiang 
+It is a simple sample of the webspider using scrapy frame.
 # Requirement
 python&scrapy frame 
 # Prepare the Environment
@@ -13,6 +14,7 @@ $ scrapy startproject XXX (I used the mySpider in this README and we generally n
 3. mySpider/pipelines.py (data processing)
 4. mySpider/spiders (directions of spiders code)
 5. scrapy.cfg & mySpider/settings.py (project configuration information and files)
-# items.py : Define the data we want to scrape
+# items.py : Define the scraped data we want to collect
+1. 
 
 
