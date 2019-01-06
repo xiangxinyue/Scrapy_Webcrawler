@@ -17,5 +17,6 @@ $ scrapy startproject XXX (I used the mySpider in this README and we generally n
 # Define the scraped data : items.py
 1. define the fields for your item like name = scrapy.Field
 2. we can create a scrapy.item class and use scrapy.Field to define a item
-
+# Create the webspider
+The webspider has two main steps of collect data, the first step is to scrape the data, the second step is to 
 
