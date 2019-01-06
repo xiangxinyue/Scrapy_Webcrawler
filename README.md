@@ -20,3 +20,7 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 1. create a webspider in the mySpider/spiders and set the domain of website: $ scrapy genspider movie "meijutt.com"
 2. open the douban.py and we need to set the "name", "allow_domains", "start_urls"
 3. revise the parse() and use $scrapy crawl mySpider then we got the source code information from this website
+4. we can use Chrome to get the XPATH address ( just copy the XPATH)
+5. revise the parse
+6. import the mySpiderItem 
+# Deal with the pipelines.py and set settings.py
