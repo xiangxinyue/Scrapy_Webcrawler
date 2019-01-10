@@ -1,10 +1,14 @@
 # Project Name: scrapy_webspider by Xinyue Xiang Jan 2019 
-It is a simple sample of the webspider using scrapy frame.
+It is a simple sample of the webspider using scrapy frame. I use it to practice my skill of Python and self learn the Scrapy frame.
+This README showing the process of my self study and I got some ideas from this project so that I can use this frame well in my future to do some Data Collect. I also read some paper about collect data through API after reading the document and want to do it later. Though this project is really simple at pratice level, it still can have a strong power after adding more elements so it is revised flexiable. I also want to do some Data Visualization and combine it with webspider in the future.
+
 # Requirement
-python&scrapy frame 
+Python&Scrapy frame
+
+# Understand what is web
 # Prepare the Environment
 Download the scrapy frame. 
-I use the Mac OS and I found it hard to use "$ pip install Scrapy" command in my Macbook terminal. So I use the virtualenv to install Scrapy. I posted the install terminal lines in the "install the Scrapy".
+I usedthe Mac OS and I found it hard to use "$ pip install Scrapy" command in my Macbook terminal. So I use the virtualenv to install Scrapy. I posted the install terminal lines in the "install the Scrapy".
 # Create and Start Project
 Create my new Scrapy project in the Scrapy. We need to find the location of our Scrapy installed and create our project in that folder. $ source bin/activate $ scrapy startproject mySpider (I used the mySpider in this README and we generally named with the website domain name)
 # Instruction of Documents
@@ -26,6 +30,7 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 # Deal with the pipelines.py and set settings.py
 ..
 # How to save our data?
-I only use the csv and it can open with Excel
+I only use the csv and it can open with Excel. 
+
 # Some problems may meet
 1. You may need to buy a ip basement because while you are running your webspider, a 504 error may come out.
