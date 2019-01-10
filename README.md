@@ -28,3 +28,4 @@ Create my new Scrapy project in the Scrapy. We need to find the location of our 
 # How to save our data?
 I only use the csv and it can open with Excel
 # Some problems may meet
+1. You may need to buy a ip basement because while you are running your webspider, a 504 error may come out.
