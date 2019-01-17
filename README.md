@@ -1,4 +1,4 @@
-# Project Name: scrapy_webspider by Xinyue Xiang Jan 2019 
+# Project Name: scrapy_webspider by Xinyue Xiang Jan-Feb 2019 
 It is a simple sample of the webspider using scrapy frame. I use it to practice my skill of Python and self learn the Scrapy frame.
 This README showing the process of my self study and I got some ideas from this project so that I can use this frame well in my future to do some Data Collect. I also read some paper about collect data through API after reading the document and want to do it later. Though this project is really simple at pratice level, it still can have a strong power after adding more elements so it is revised flexiable. I also want to do some Data Visualization and combine it with webspider in the future.
 
